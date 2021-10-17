@@ -1,7 +1,7 @@
 {
-  "name": "react-intl-wrapper",
+  "name": "react-intl-tools",
   "version": "1.0.0",
-  "description": "A wrapper around react-intl",
+  "description": "A package that provides components to simplify working with react-intl",
   "main": "src/index.js",
   "files": [
     "/src"
@@ -25,7 +25,9 @@
     "l10n",
     "localization",
     "react",
-    "react-intl"
+    "react-intl",
+    "react-intl-provider",
+    "react-intl-wrapper"
   ],
   "author": "simplymichael <simplymichaelorji@gmail.com> (https://github.com/simplymichael)",
   "license": "MIT",
