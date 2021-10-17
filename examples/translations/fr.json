@@ -1,0 +1,58 @@
+{
+  "G2Ss6t": {
+    "defaultMessage": "Choisir la langue",
+    "description": "Language selection text"
+  },
+  "Hs0tct": {
+    "defaultMessage": "Anglais",
+    "description": "Language: english"
+  },
+  "I89KWM": {
+    "defaultMessage": "Anglais britannique",
+    "description": "Language: british-english"
+  },
+  "IYihon": {
+    "defaultMessage": "français",
+    "description": "Language: french"
+  },
+  "M3vPXb": {
+    "defaultMessage": "Britanique",
+    "description": "Language variation: british-english"
+  },
+  "MQuzRq": {
+    "defaultMessage": "Cliquez sur un bouton ci-dessous pour sélectionner votre langue préférée",
+    "description": "Language selection buttons instruction"
+  },
+  "MqUAdh": {
+    "defaultMessage": "La liste déroulante du sélecteur de langue ci-dessus a été créée à l'aide du composant {localeSelector} intégré avec le code suivant",
+    "description": "Creating dropdown with LocaleSelector"
+  },
+  "NE20Tk": {
+    "defaultMessage": "Allemande",
+    "description": "Language: german"
+  },
+  "SzQjV7": {
+    "defaultMessage": "anglais américain",
+    "description": "Language: american-english"
+  },
+  "WG1LQe": {
+    "defaultMessage": "Italien",
+    "description": "Language: italian"
+  },
+  "dJHBBV": {
+    "defaultMessage": "Bienvenue sur ProjectEuclid",
+    "description": "Welcome message"
+  },
+  "fP/9+L": {
+    "defaultMessage": "Bonjour le monde!",
+    "description": "Hello world message"
+  },
+  "j+qkwq": {
+    "defaultMessage": "Américaine",
+    "description": "Language variation: american-english"
+  },
+  "sY3lN+": {
+    "defaultMessage": "russe",
+    "description": "Language: russian"
+  }
+}
