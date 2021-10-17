@@ -21,6 +21,8 @@ Add internationalization and localization capabilities to your React app in 4 si
     - **[Report a bug](#report-a-bug)**
     - **[Request a new feature](#request-a-new-feature)**
     - **[Submit a pull request](#submit-a-pull-request)**
+    - **Checkout the [Contributing guide](#contributing-guide)**
+- **[CHANGELOG](#changelog)**
 - **[License](#license)**
 - **[Author](#author)**
 
@@ -143,6 +145,8 @@ If you wish to use a different port, use webpack's `--port` option:
 - <a name="request-a-new-feature">[Request a new feature][fr]</a>
 - <a name="submit-a-pull-request">[Submit a pull request][pr]</a>
 
+## CHANGELOG
+See [CHANGELOG][changelog]
 
 ## License
 [MIT License][license]
@@ -155,3 +159,5 @@ If you wish to use a different port, use webpack's `--port` option:
 [fr]: https://github.com/simplymichael/react-intl-tools/labels/feature%20request
 [bug]: https://github.com/simplymichael/react-intl-tools/labels/bug
 [license]: https://github.com/simplymichael/react-intl-tools/blob/master/LICENSE.md
+[changelog]: https://github.com/simplymichael/react-intl-tools/blob/master/CHANGELOG.md
+[contribute]: https://github.com/simplymichael/react-intl-tools/blob/master/CONTRIBUTING.md
