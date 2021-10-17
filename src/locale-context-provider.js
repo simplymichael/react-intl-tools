@@ -28,7 +28,7 @@ function loadLocaleData(locale, defaultLocale, translations) {
   locale = String(locale).trim();
 
   try {
-    return translations[locale]
+    return translations[locale];
   } catch(err) {
     return translations[defaultLocale];
   }

@@ -1,10 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { useIntl } from "react-intl";
 import { LocaleContext } from "./locale-context-provider";
 
 const LocaleSelector = ({ languages, selectorText, ...rest }) => {
-  const { formatMessage } = useIntl();
   const { locale, setLocale } = React.useContext(LocaleContext);
   const languagesList = languages.map(({ code, name }) => (
     <option key={code} value={code}>{name}</option>
@@ -39,7 +37,7 @@ LocaleSelector.propTypes = {
     code: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
   })).isRequired,
-}
+};
 
 LocaleSelector.defaultProps = {
   selectorText: "Choose language",
