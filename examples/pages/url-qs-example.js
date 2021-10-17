@@ -44,7 +44,7 @@ const PathParametersPage = ({ match }) => {
       <hr />
 
       {query.get("lang") &&
-        <p>
+        <div>
           Query string:
           <span className="inline-block ml-10" style={{ fontWeight: "bold" }}>
             ?lang={selectedLanguage}
@@ -66,7 +66,7 @@ const PathParametersPage = ({ match }) => {
               </pre>
             </code>
           </span>
-        </p>
+        </div>
       }
     </>
   );

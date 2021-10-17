@@ -65,7 +65,7 @@ const LocaleSelectorPage = () => {
 
       <hr />
 
-      <p>
+      <div>
         {formatMessage(
           {
             defaultMessage: `The language selector dropdown above was created
@@ -102,7 +102,7 @@ const LocaleSelectorPage = () => {
             </pre>
           </code>
         </span>
-      </p>
+      </div>
     </div>
   );
 };

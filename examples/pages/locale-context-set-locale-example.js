@@ -113,7 +113,7 @@ const LocaleContextPage = () => {
       <hr />
 
       {btnClicked &&
-        <p>
+        <div>
          Code: <br />
          <span className="inline-block ml-10" style={{ fontWeight: "bold" }}>
            <code>
@@ -129,7 +129,7 @@ const LocaleContextPage = () => {
 
            </code>
          </span>
-        </p>
+        </div>
       }
     </>
   );
