@@ -28,18 +28,21 @@
     "react",
     "react-intl",
     "react-intl-provider",
-    "react-intl-wrapper"
+    "react-intl-wrapper",
+    "react-intl-tools",
+    "react-intl-utils",
+    "react-intl-utilities"
   ],
   "author": "simplymichael <simplymichaelorji@gmail.com> (https://github.com/simplymichael)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simplymichael/react-intl-wrapper.git"
+    "url": "git+https://github.com/simplymichael/react-intl-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/simplymichael/react-intl-wrapper/issues"
+    "url": "https://github.com/simplymichael/react-intl-tools/issues"
   },
-  "homepage": "https://github.com/simplymichael/react-intl-wrapper#readme",
+  "homepage": "https://github.com/simplymichael/react-intl-tools#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
